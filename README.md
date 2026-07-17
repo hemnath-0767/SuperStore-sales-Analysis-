@@ -106,10 +106,9 @@ Dataset: [Superstore Sales Dataset (CSV)](https://drive.google.com/file/d/13Q9La
 
 ## ⬇ Download xlsx File
 
-The Power BI (.xlsx) file is available here:
+[Download XLSX](https://docs.google.com/spreadsheets/d/1gvZvzl7pZSjzRAgoEQetXFkpeKD8nDCc/edit?usp=sharing&ouid=110202215400023944750&rtpof=true&sd=true)
 
-[Download XLSX](https://drive.google.com/file/d/1CzkABZjQSkNvrt2lvwPM2e4DZ2Bar5Pk/view?usp=sharing)
-
+---
 
 ## 🚀 Future Improvements
 
