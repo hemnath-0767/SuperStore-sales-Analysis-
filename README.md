@@ -72,19 +72,6 @@ The dashboard allows users to explore sales, profit, product categories, and reg
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Excel-Project/
-│
-├── Superstore Sales Dashboard.xlsx
-├── Dataset - Superstore.csv
-├── screenshots/
-└── README.md
-```
-
----
-
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
