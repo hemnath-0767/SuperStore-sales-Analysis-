@@ -89,15 +89,15 @@ Excel-Project/
 
 ### Dashboard Overview
 
-![Dashboard](screenshots/Screenshot1.jpg)
+![Dashboard](https://github.com/hemnath-0767/SuperStore-sales-Analysis-/blob/e8ce6f5505b72598b229034b741390e4015d641f/Screenshots/Screenshot%202026-07-17%20122210.jpg)
 
 ### Sales & Regional Analysis
 
-![Analysis](screenshots/Screenshot2.jpg)
+![Analysis](https://github.com/hemnath-0767/SuperStore-sales-Analysis-/blob/e8ce6f5505b72598b229034b741390e4015d641f/Screenshots/Screenshot%202026-07-17%20122301.jpg)
 
 ### Sales & Profit Comparison
 
-![Profit](screenshots/Screenshot3.jpg)
+![Profit](https://github.com/hemnath-0767/SuperStore-sales-Analysis-/blob/e8ce6f5505b72598b229034b741390e4015d641f/Screenshots/Screenshot%202026-07-17%20122332.jpg)
 
 ---
 
