@@ -100,7 +100,7 @@ The dashboard allows users to explore sales, profit, product categories, and reg
 
 ## 📂 Dataset
 
-Dataset: Superstore Sales Dataset (CSV)
+Dataset: [Superstore Sales Dataset (CSV)](https://drive.google.com/file/d/13Q9La8QI4F0ZCKxkT0am7t2TepXbL87z/view?usp=sharing)
 
 ---
 
